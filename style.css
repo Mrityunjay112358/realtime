@@ -1,0 +1,41 @@
+.heading{
+    box-shadow: 5px 5px 50px yellow;
+    margin:0px;
+    width: 100%;
+    font-size: 35px;
+}
+
+.header_div{
+    float:none;
+    padding:10px;
+    box-shadow: 5px 5px 50px mintcream;
+    border-radius: 20px;
+    background: white;
+    color:black;
+}
+
+.result_para{
+    font-size: 20px;
+    box-shadow: 5px 5px 15px yellow;
+}
+
+.copy_right{
+    width:100%;
+    color:whitesmoke;
+    background-color: grey;
+    position: fixed;
+    bottom:0px;
+    line-height:30px;
+    text-align: center;
+}
+
+canvas{
+    box-shadow:5px 5px 40px teal;
+    border: 4px solid salmon;
+    border-radius: 30px;
+    
+}
+
+.gap{
+    margin-top: 300px !important;
+}
